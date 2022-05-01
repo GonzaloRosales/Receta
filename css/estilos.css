@@ -1,0 +1,73 @@
+body { margin: 0;
+     background-color: #E1E2E3
+   }
+header  { background-color: #101527;
+      padding: 1rem 1rem ;
+}
+
+.imagen-centrada { margin: 0 auto;
+  width: 300px ;
+padding:  2rem 1rem ;
+display: block;
+ }
+ .primer-titulo { margin: 0 auto;
+   color:white;
+   text-align: center;
+  font-family: verdana;
+  padding-bottom: 1rem;
+  font-size: 4rem
+ }
+
+ .titulo {font-size: 1.5rem;
+ text-align: center;
+font-family: verdana;
+text-decoration: underline;
+ }
+
+.contenido { width: 700px;
+margin:0 auto;
+}
+
+section article h3 { text-align: center;}
+
+section article ul, section article ol { margin: 0.5rem 5rem}
+
+section article { transition:box-shadow 0.35 ease;
+  background-color: white;
+margin: 0 auto;
+border-radius: 3rem;
+padding: 2rem 1rem;
+}
+
+section article:hover {box-shadow: 0 0.1rem 0.4rem rgba(0,0,0.3)}
+
+ .caponata-imagen { margin: auto;
+   width: 500px ;
+  display: block;}
+
+  .video { margin: 0rem 5rem;
+   display: block;
+  }
+
+  .mapa{ margin: 0rem 5rem;
+   display: block;
+  }
+  footer{ background-color:#101527;
+margin: 0 auto;
+padding: 3rem;
+   }
+
+.potrero {width:200px;
+         display: inline-flex;
+         padding-left: 70rem;
+
+}
+
+.face {
+width: 50px;
+display:inline-flex;
+}
+
+.insta { width: 50px;
+  margin:0 auto;
+display:inline-flex;;}
